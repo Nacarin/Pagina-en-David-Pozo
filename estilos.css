@@ -4,11 +4,9 @@
     margin: 0;
     padding: 0; 
 }
-
 html{
     width: 1280px;
 }
-
 
 body{
     background-image: url("imagenes/fondo1.jpg");
@@ -93,6 +91,7 @@ div table {
     margin-top: 50px;
     text-align: center;/*Centramos los textos e imagenes*/
 }
+
 
 table img{/*Ajustamos el tamaño de las imagenes de la tabla*/
     height: 70px; /* AL PONERLO EN % EXPLOTA*/
